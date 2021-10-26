@@ -63,7 +63,7 @@ bash main.sh
 ###  Results
 
 
-![alt text](https://github.com/leeseomin/arte1/blob/main/arles.png)
+![alt text](https://github.com/leeseomin/arte11/blob/main/out.png)
 
 
  
