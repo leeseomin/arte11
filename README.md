@@ -57,7 +57,10 @@ input images folder : s ,   result folder : s25
 
 bash main.sh    or
 
-bash main2.sh   (more detailed)
+bash 4k3.sh   (more detailed)
+
+
+
 
 
 ```
