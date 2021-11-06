@@ -55,9 +55,15 @@ mkdir s{1..25}
 input images folder : s ,   result folder : s25
 
 
-bash main.sh    or bash main2.sh ,  bash 4k.sh
+bash main.sh    or bash main2.sh , 
 
-bash 4k3.sh   (more detailed)  and 
+
+bash 4k.sh   (default)  and 
+
+bash 4k2.sh   (more bold)  and 
+
+bash 4k3.sh   (more detailed) 
+
 
 + tone.sh
 
